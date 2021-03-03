@@ -13,7 +13,7 @@
     "lodash": "^4.17.15",
     "mongoskin": "^2.1.0",
     "morgan": "^1.9.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "static-favicon": "^2.0.0-alpha",
     "stylus": "^0.54.7",
     "yargs": "^14.0.0"
